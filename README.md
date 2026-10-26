@@ -11,7 +11,7 @@ The custom MHC container contains a header, a text segment, and a data segment. 
 
 ## Requirements
 
-- Java JDK installed
+- Java installed
 - Terminal or command prompt
 
 ## How to Run
